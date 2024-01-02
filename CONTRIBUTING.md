@@ -1,4 +1,4 @@
-ure, here’s a general guide on how you can contribute to a project:
+
 
 Contributing Guide 🤝
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it’s:
@@ -40,8 +40,3 @@ Use a Consistent Coding Style 🎨
 You can try running npm run lint for style unification
 License 📄
 By contributing, you agree that your contributions will be licensed under its MIT License.
-
-References 📚
-This document was adapted from the open-source contribution guidelines for Facebook’s Draft
-
-Remember, contributions are not just about code - you can contribute through discussion, documentation, and more. Happy contributing! 😊
