@@ -1,5 +1,4 @@
-![BaWi](https://github.com/rayen-feb/Snake-game-/assets/131598929/3540c584-de35-458c-985c-f483f543f80b)
-# Snake-game-
+
 simple snake game in c++ ![BaWi](https://github.com/rayen-feb/Snake-game-/assets/131598929/3540c584-de35-458c-985c-f483f543f80b)
 
 Snake Game in C++ 🐍🎮
