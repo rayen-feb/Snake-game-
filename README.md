@@ -3,6 +3,8 @@
 # Snake Game in C++ 🐍🎮
 
 ![BaWi](https://github.com/rayen-feb/Snake-game-/assets/131598929/3540c584-de35-458c-985c-f483f543f80b)
+
+
 Welcome to the classic Snake Game implemented in C++! This game is a fun and simple way to pass time where you control a growing snake that navigates around the screen.
 
 # Game Description 📝
